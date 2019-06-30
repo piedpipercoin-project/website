@@ -18,8 +18,12 @@
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
           <b-navbar-nav>
-            <b-nav-item href="#/">Home</b-nav-item>
-            <b-nav-item href="#/exchanges">Exchanges</b-nav-item>
+            <li class="nav-item">
+              <b-link to="/" class="nav-link">Home</b-link>
+            </li>
+            <li class="nav-item">
+              <b-link to="exchanges" class="nav-link">Exchanges</b-link>
+            </li>
           </b-navbar-nav>
         </b-navbar-nav>
       </b-collapse>
