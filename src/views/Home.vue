@@ -12,11 +12,11 @@
         </h2>
         <div>
           <p>
-            We're working on
-            <i>an app</i> that brings togheter all the show enthusiast
-            (including fans of Erlich who still use Aviato) in one chat app. Your PPI tokens will
-            allow you to chat and interact with other Silicon Valley fans.
-            This one time fee is designed to curate the potential members list and make sure
+            We're working on 
+            <i>an app</i> that brings together all the show enthusiast 
+            (including fans of Erlich who still use Aviato) in one chat app. Your PPI tokens will 
+            allow you to chat and interact with other Silicon Valley fans. 
+            This one-time fee is designed to curate the potential member's list and make sure 
             that only the geekiest and most enthusiast members of the fanbase gain access.
           </p>
           <p>
@@ -44,7 +44,7 @@
             <i>1:1 token airdrop</i> to PPI users will be carried out to both IOS
             and Android holders at the same time. Unlike the last airdrop, the
             amount of FLINT tokens you receive
-            will be diretly proportional to the PPI tokens you hold.
+            will be directly proportional to the PPI tokens you hold.
           </p>
         </div>
       </article>
