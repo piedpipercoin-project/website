@@ -38,7 +38,50 @@ export default {
   name: 'ExchangeList',
   data() {
     return  {
-      markets: [],
+      markets: [
+        {
+          market: "FORKDELTA",
+          price: "",
+          pair: "PPI-ETH",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/forkdelta.png",
+          link: "https://forkdelta.app/#!/trade/0x5a3c9a1725aa82690ee0959c89abe96fd1b527ee-ETH"
+        },
+        {
+          market: "DDEX",
+          price: "",
+          pair: "PPI-WETH",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/ddex.png",
+          link: "https://ddex.io/trade/PPI-WETH"
+        },
+        {
+          market: "IDAX",
+          price: "",
+          pair: "PPI-BTC",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/idax.png",
+          link: "https://www.idax.pro/exchange?pairname=PPI_BTC"
+        },
+        {
+          market: "SATURNNETWORK",
+          price: "",
+          pair: "PPI-ETH",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/saturnnetwork.png",
+          link: "https://www.saturn.network/exchange/ETH/order-book/0x5a3c9a1725aa82690ee0959c89abe96fd1b527ee/0x0000000000000000000000000000000000000000"
+        },
+        {
+          market: "BAMBOORELAY",
+          price: "",
+          pair: "PPI-WETH",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/bamboorelay.png",
+          link: "https://bamboorelay.com/trade/PPI-WETH"
+        },
+        {
+          market: "CRYPTOBRIDGE",
+          price: "",
+          pair: "PPI-BTC",
+          logo: "https://raw.githubusercontent.com/piedpipercoin-project/website/master/src/assets/markets/cryptobridge.png",
+          link: "https://wallet.crypto-bridge.org/market/BRIDGE.PPI_BRIDGE.BTC"
+        }
+      ],
       errors: []
     }
   },
